@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bl.invoicegenrator.InvoiceServiceImplementsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-22T14:28:18" hostname="KAJAL-PC" time="0.048">
+<testsuite name="com.bl.invoicegenrator.InvoiceServiceImplementsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-22T14:38:09" hostname="KAJAL-PC" time="0.203">
   <properties/>
-  <testcase name="givenDistanceAndTime_ShouldReturnTotalFare()" classname="com.bl.invoicegenrator.InvoiceServiceImplementsTest" time="0.048"/>
+  <testcase name="givenLessDistanceOrTime_ShouldReturnMinFare()" classname="com.bl.invoicegenrator.InvoiceServiceImplementsTest" time="0.203"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
